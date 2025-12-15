@@ -70,7 +70,7 @@ Recomendaciones Híbridas
 
 ---
 
-## 🖥️ Interfaz de Usuario
+##  Interfaz de Usuario
 
 ### Vista Principal
 
@@ -78,7 +78,7 @@ Recomendaciones Híbridas
 
 ### Funcionalidades
 
-#### 1️⃣ Selección de Película
+#### 1️ Selección de Película
 
 Elige una película del dataset de test y obtén información detallada:
 
@@ -97,8 +97,8 @@ El sistema muestra:
 - **Distribución:** Películas del mismo cluster vs otros
 - **Similitud Promedio:** Métrica de calidad de recomendaciones
 - **Badges Visuales:** 
-  - 🎯 = Del mismo cluster (alta similitud visual)
-  - 🔄 = De otros clusters (diversidad)
+  -  Del mismo cluster (alta similitud visual)
+  -  De otros clusters (diversidad)
 
 #### 3 Filtros de Recomendaciones
 
@@ -206,12 +206,6 @@ Este proyecto fue desarrollado como parte del curso de Machine Learning
 - [ ] Sistema de evaluación con métricas de recomendación
 - [ ] API REST para integración con otros sistemas
 - [ ] Análisis de composición visual (layout, objetos)
-
----
-
-## Contacto
-
-**Kenyi Reyes**
 
 ---
 
